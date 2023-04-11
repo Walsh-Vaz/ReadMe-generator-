@@ -69,7 +69,7 @@ function generateMarkdown(data) {
 
           ##[Questions](# table of content)
           For more questions you can use the following
-          Email: # ${data.email}
+          Email:  ${data.email}
           [github] (https://github.com/${data.username}) 
 
 
